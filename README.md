@@ -1,2 +1,2 @@
-# handy
-Leer HTML-elementen een bijzondere positie te geven op de webpagina.
+# Handy
+Geef HTML-elementen een bijzondere positie op de webpagina.
