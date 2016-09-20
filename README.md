@@ -1,5 +1,6 @@
 ## Handy
 Geef HTML-elementen een bijzondere positie op de webpagina. 
+### Hoe werkt dat...
 Block-elementen worden onder elkaar gepositioneerd. Inline-elementen worden binnen een block-element naast elkaar gepositioneerd in regels. De normale positie van block- en inline elementen wordt **static** genoemd. Je kunt elementen ook een afwijkende positie geven. Ze lijken daardoor te zweven boven de andere elementen van de webpagina.
 
 ## De opdracht
