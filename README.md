@@ -37,7 +37,7 @@ De handy webpagina moet aan de volgende technische eisen voldoen:
 * Gebruik nav waar nodig
 * Gebruik main en article waar nodig
 * Gebruik position: relative, absolute en fixed waar nodig.
-* Pas nooit negatieve margins toe
+* Pas nooit negatieve margins of paddings toe
 * Gebruik display: none als elementen onzichtbaar moeten zijn
 * Gebruik display: block als elementen zichtbaar moeten worden als block-element
 
