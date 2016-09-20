@@ -1,9 +1,12 @@
 ## Handy
-Geef HTML-elementen een bijzondere positie op de webpagina. 
+Geef HTML-elementen een bijzondere positie op twee webpagina's
 ### Hoe werkt dat...
 Block-elementen worden normaal onder elkaar gepositioneerd. Inline-elementen worden normaal binnen een block-element naast elkaar gepositioneerd in regels. De normale positie van block- en inline elementen wordt **static** genoemd. Je kunt elementen ook een afwijkende positie geven. Ze lijken daardoor te zweven boven de andere elementen van de webpagina.
 
 ## De opdracht
+* 1 Maak een webpagina 'handy' na op basis van de voorbeelden in de map Voorbeelden
+* 2 Breid de nieuwsportaal-webpagina over jouw hobby (opdracht layout) uit met elementen die absolute en fixed gepositioneerd zijn.
+
 De opdracht bestaat uit twee type eisen, namelijk functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
 
 ###Functionele eisen
@@ -23,7 +26,7 @@ De handy webpagina moet aan de volgende functionele eisen voldoen:
 ###Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
 
-Wie ben ik moet aan de volgende technische eisen voldoen:
+De handy webpagina moet aan de volgende technische eisen voldoen:
 * Werk de aanwezige absolutely.html en absolutely.css verder uit...
 * Het document is geschreven in HTML5
 * Het document bevat het correcte doctype 
