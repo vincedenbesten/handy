@@ -7,7 +7,7 @@ Block-elementen worden normaal onder elkaar gepositioneerd. Inline-elementen wor
 1. Maak een webpagina 'handy' na op basis van de voorbeelden in de map Voorbeelden
 2. Breid de nieuwsportaal-webpagina over jouw hobby (opdracht layout) uit met elementen die absolute en fixed gepositioneerd zijn.
 
-De opdracht bestaat uit twee type eisen, namelijk functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
+De opdracht bestaat uit twee type eisen, namelijk functionele eisen en technische eisen. Je moet aan al deze eisen voldoen!
 
 ###Functionele eisen
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennis niveau.
