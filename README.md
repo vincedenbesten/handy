@@ -37,5 +37,5 @@ Wie ben ik moet aan de volgende technische eisen voldoen:
 * Gebruik display: block als elementen zichtbaar moeten worden als block-element
 
 ###Bronnen
-* [positioning](http://www.w3schools.com/cssref/pr_class_position.asp)
+* [positioning elements](http://www.w3schools.com/cssref/pr_class_position.asp)
 * [displaying elements](http://www.w3schools.com/cssref/pr_class_display.asp)
