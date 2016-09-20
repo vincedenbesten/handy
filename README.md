@@ -13,15 +13,15 @@ De opdracht bestaat uit twee type eisen, namelijk functionele eisen en technisch
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennis niveau.
 
 De handy webpagina moet aan de volgende functionele eisen voldoen:
-* De layout en stijl moet exact overeenkomen met het voorbeeld (Zie voorbeelden/handy01.png)
-* De navigatielinks (title, hammer,screwdriver, saw, pincers) zijn geplaatst over den rode rand van het gecentreerde vlak van de webpagina. (Zie voorbeelden/handy01.png)
-* De navigatielinks schuiven naar het centrum, wanneer de muis erover heen gaat (Zie voorbeelden/handy02.png)
-* De toolbox is geplaatst in het midden van de webpagina. (Zie voorbeelden/handy01.png)
-* Het menu (tape measure, woord graver etc.) van de rode toolbox verschijnt net over/onder de toolbox, wanneer de muis over de toolbox gaat (Zie voorbeelden/handy03.png)
-* Een optie uit het menu van de rode toolbox wordt lichtgeel, wanneer de muis over optie gaat (Zie voorbeelden/handy04.png)
-* De extra tekst over de human factor wordt (pas) zichtbaar in een wit vlak onder het woord human factor, als de muis er over heen gaat. (Zie voorbeelden/handy05.png)
-* Bovenin de webpagina is op een vaste plek in het browser-window (fixed) een menu zichtbaar met de opties 'to paint', 'to mason' etc. (Zie voorbeelden/handy01.png)
-* De kleuren van het menu bovenin wijzigen als de muis erover heen gaat. (Zie voorbeelden/handy06.png)
+* De layout en stijl moet exact overeenkomen met het voorbeeld (Zie Voorbeelden/handy01.png)
+* De navigatielinks (title, hammer,screwdriver, saw, pincers) zijn geplaatst over den rode rand van het gecentreerde vlak van de webpagina. (Zie Voorbeelden/handy01.png)
+* De navigatielinks schuiven naar het centrum, wanneer de muis erover heen gaat (Zie Voorbeelden/handy02.png)
+* De toolbox is geplaatst in het midden van de webpagina. (Zie Voorbeelden/handy01.png)
+* Het menu ('tape measure', 'wood graver' etc.) van de rode toolbox verschijnt net over/onder de toolbox, wanneer de muis over de toolbox gaat (Zie Voorbeelden/handy03.png)
+* Een optie uit het menu van de rode toolbox wordt lichtgeel, wanneer de muis over optie gaat (Zie Voorbeelden/handy04.png)
+* De extra tekst over de human factor wordt (pas) zichtbaar in een wit vlak onder het woord human factor, als de muis er over heen gaat. (Zie Voorbeelden/handy05.png)
+* Bovenin de webpagina is op een vaste plek in het browser-window (fixed) een menu zichtbaar met de opties 'to paint', 'to mason' etc. (Zie Voorbeelden/handy01.png)
+* De kleuren van het menu bovenin wijzigen als de muis erover heen gaat. (Zie Voorbeelden/handy06.png)
 
 ###Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
