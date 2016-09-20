@@ -32,7 +32,6 @@ De handy webpagina moet aan de volgende technische eisen voldoen:
 * Het document bevat het correcte doctype 
 * Het document bestaat uit een head en body
 * Het document heeft een title
-* Het document bevat minimaal koppen, paragrafen, een afbeelding, één of meerdere links
 * Het document valideert als correct HTML5, [http://validator.w3.org/](http://validator.w3.org/)
 * Gebruik nav waar nodig
 * Gebruik main en article waar nodig
