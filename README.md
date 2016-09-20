@@ -1,12 +1,12 @@
 ## Handy
 Geef HTML-elementen een bijzondere positie op de webpagina. 
-Block-elementen worden onder elkaar gepositioneerd. Inline-elementen worden binnen een block-element naast elkaar gepositioneerd, zolang dat past in de breedte van dat block-element. De normale positie van block- en inline elementen wordt **static** genoemd. Je kunt elementen ook een afwijkende positie geven. Ze lijken daardoor te zweven boven de andere elementen van de webpagina.
+Block-elementen worden onder elkaar gepositioneerd. Inline-elementen worden binnen een block-element naast elkaar gepositioneerd in regels. De normale positie van block- en inline elementen wordt **static** genoemd. Je kunt elementen ook een afwijkende positie geven. Ze lijken daardoor te zweven boven de andere elementen van de webpagina.
 
 ## De opdracht
 De opdracht bestaat uit twee type eisen, namelijk functionele eisen en technische eisen. Je moet aan alle deze eisen voldoen!
 
 ###Functionele eisen
-Functionele eisen beschrijven welke functionaliteit je eind product moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennis niveau.
+Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennis niveau.
 
 Wie ben ik moet aan de volgende functionele eisen voldoen:
 * optie
