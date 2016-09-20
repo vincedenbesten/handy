@@ -24,6 +24,7 @@ De handy webpagina moet aan de volgende functionele eisen voldoen:
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
 
 Wie ben ik moet aan de volgende technische eisen voldoen:
+* Werk de aanwezige absolutely.html en absolutely.css verder uit...
 * Het document is geschreven in HTML5
 * Het document bevat het correcte doctype 
 * Het document bestaat uit een head en body
