@@ -9,7 +9,7 @@ Block-elementen worden normaal onder elkaar gepositioneerd. Inline-elementen wor
 
 De opdracht bestaat uit twee type eisen, namelijk functionele eisen en technische eisen. Je moet aan al deze eisen voldoen!
 
-###Functionele eisen
+### Functionele eisen
 Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Functionele eisen mogen nooit van technische aard zijn! Ieder persoon moet begrijpen welke functionaliteit de opdracht moet bevatten, ongeacht kennis niveau.
 
 De handy webpagina moet aan de volgende functionele eisen voldoen:
@@ -23,7 +23,7 @@ De handy webpagina moet aan de volgende functionele eisen voldoen:
 * Bovenin de webpagina is op een vaste plek in het browser-window (fixed) een menubalk zichtbaar met de opties 'to paint', 'to mason' etc. (Zie Voorbeelden/handy01.png) In elk browserscherm (hoe klein of hoe groot ook) staat deze menubalk bovenin het browserscherm.
 * De achtergrond en tekstkleur van het menubalk bovenin wijzigen als de muis erover heen gaat. (Zie Voorbeelden/handy06.png)
 
-###Technische eisen
+### Technische eisen
 Technische eisen beschrijven aan welke vakgerichte voorwaarden de opdracht moet voldoen. Bijvoorbeeld dat de opdracht in correct validerend HTML en CSS moet worden geschreven. 
 
 De handy webpagina moet aan de volgende technische eisen voldoen:
@@ -40,6 +40,6 @@ De handy webpagina moet aan de volgende technische eisen voldoen:
 * Gebruik display: none als elementen onzichtbaar moeten zijn
 * Gebruik display: block als elementen zichtbaar moeten worden als block-element
 
-###Bronnen
+### Bronnen
 * [positioning elements](http://www.w3schools.com/cssref/pr_class_position.asp)
 * [displaying elements](http://www.w3schools.com/cssref/pr_class_display.asp)
